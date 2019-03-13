@@ -2,8 +2,8 @@
 /**
  * Write a description of class LOsEr here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Noah)
+ * @version (3/13/2019)
  */
 public class LOsEr
 {
